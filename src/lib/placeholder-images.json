@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "js-intro",
+      "description": "An abstract image representing JavaScript coding.",
+      "imageUrl": "https://picsum.photos/seed/js-intro/600/400",
+      "imageHint": "code abstract"
+    },
+    {
+      "id": "react-advanced",
+      "description": "An image showing complex UI components or a React component tree.",
+      "imageUrl": "https://picsum.photos/seed/react-advanced/600/400",
+      "imageHint": "react components"
+    },
+    {
+      "id": "python-data",
+      "description": "An image with data visualizations and charts.",
+      "imageUrl": "https://picsum.photos/seed/python-data/600/400",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "react-native",
+      "description": "An image showing a mobile phone with a modern app interface.",
+      "imageUrl": "https://picsum.photos/seed/react-native/600/400",
+      "imageHint": "mobile app"
+    }
+  ]
 }
